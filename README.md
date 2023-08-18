@@ -1,4 +1,4 @@
-<span style="font-size: larger;">About Me</span>
+#About Me!
 
 🎓 Currently on a journey of knowledge at Massey University, pursuing a Graduate Diploma of Information Science.
 
