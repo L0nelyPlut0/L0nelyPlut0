@@ -1,4 +1,4 @@
-##**About Me** 
+**About Me** 
 
 🎓 Currently on a journey of knowledge at Massey University, pursuing a Graduate Diploma of Information Science.
 
