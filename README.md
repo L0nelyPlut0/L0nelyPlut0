@@ -1,5 +1,7 @@
-**About Me**
+###**About Me** 
 
-Currently studying a Graduate Diploma of Information Science at Massey University.
+🎓 Currently on a journey of knowledge at Massey University, pursuing a Graduate Diploma of Information Science.
 
-Learning web development in my free time. 
+🔐 Cybersecurity enthusiast, locking down bytes and bits to protect the digital frontier.
+
+💻 Self-studying web dev, learning HTML, CSS and JavaScript. 
