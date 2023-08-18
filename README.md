@@ -1,4 +1,3 @@
-** About me!**
 
 Currently studying a Graduate Diploma of Information Science at Massey University.
 
